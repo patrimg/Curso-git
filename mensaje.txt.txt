@@ -1,1 +1,3 @@
-Hola mundo Patricia 
+Hola mundo Patricia Mejia González,
+
+Estoy estudiando control de versiones
